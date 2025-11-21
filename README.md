@@ -62,7 +62,7 @@ La aplicación se compone del siguiente menú inferior:
 
 ## Flujo de Usuario
 
-```mermaid
+
 flowchart TD
     A[Usuario] --> B[Inicio]
     B --> C[Excedentes]
