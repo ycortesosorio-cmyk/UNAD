@@ -74,7 +74,6 @@ flowchart TD
 MIT License - Se permite modificar, usar y distribuir el código de forma libre.
 
 
-
 ## Capturas de Pantalla
 <img width="428" height="849" alt="image" src="https://github.com/user-attachments/assets/1c88fb6f-8471-4849-9ecf-ca3240ec9764" />
 
